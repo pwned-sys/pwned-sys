@@ -38,6 +38,6 @@
 
 <br clear="both">
 
-![snake_gif](https://raw.githubusercontent.com/pwned-sys/blob/output/snake.svg/snake.svg)
+![snake_gif](https://github.com/pwned-sys/pwned-sys/blob/output/snake.svg)
 
 ###
